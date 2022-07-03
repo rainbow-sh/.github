@@ -13,6 +13,10 @@
 * [Projects](https://github.com/orgs/rainbow-sh/repositories)
 * [Members](https://github.com/orgs/rainbow-sh/people)
 
+### Member only
+
+* [Assets](https://github.com/rainbow-sh/assets)
+
 ## Joining/supporting
 
 You can contribute to our projects by opening a pull request or becoming a member.
