@@ -1,8 +1,9 @@
 # rainbow.sh
 
+[![Membership](https://img.shields.io/badge/Become%20a%20member-here!-brightgreen?style=for-the-badge)](https://github.com/rainbow-sh/membership)
+
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)](https://forthebadge.com)
-[![Membership](https://img.shields.io/badge/Become%20a%20member-here!-brightgreen?style=for-the-badge)](https://github.com/rainbow-sh/membership)
 
 [![Logo](https://avatars.githubusercontent.com/u/107364299?s=200&v=4)](https://github.com/rainbow-sh)
 
