@@ -9,6 +9,7 @@
 
 ## Useful links
 
+* [Membership](https://github.com/rainbow-sh/membership)
 * [Projects](https://github.com/orgs/rainbow-sh/repositories)
 * [Members](https://github.com/orgs/rainbow-sh/people)
 
@@ -22,4 +23,4 @@ To open a pull request you just need to:
 2. Contribute
 3. Submit a pull request
 
-If you want to become a member, contact G_cat#2267 on discord.
+To become a member, [Check out this repo](https://github.com/rainbow-sh/membership).
